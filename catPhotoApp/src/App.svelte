@@ -5,7 +5,7 @@
     <!-- TODO: Add link to cat photos -->
     <p>
       See more <a href="https://freecatphotoapp.com" target="_blank"
-        >cat photos</a
+        > cat photos </a
       >in our gallery.
     </p>
     <a href="https://freecatphotoapp.com" target="_blank"
