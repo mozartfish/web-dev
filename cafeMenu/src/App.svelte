@@ -1,14 +1,14 @@
 <div class="menu">
   <main>
-    <h1>Camper Cafe</h1>
-    <img
-      src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg"
-      alt="coffee icon"
-    />
+    <h1>CAMPER CAFE</h1>
     <p class="established">Est. 2020</p>
     <hr />
     <section>
       <h2>Coffee</h2>
+      <img
+        src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg"
+        alt="coffee icon"
+      />
       <article class="item">
         <p class="flavor">French Vanilla</p>
         <p class="price">3.00</p>
@@ -49,7 +49,7 @@
         <p class="price">3.00</p>
       </article>
       <article class="item">
-        <p class="dessert">Cinammon Roll</p>
+        <p class="dessert">Cinnamon Roll</p>
         <p class="price">2.50</p>
       </article>
     </section>
