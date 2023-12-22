@@ -1,2 +1,3 @@
-web development practice following [traversy media guide](https://www.traversymedia.com/guide)
+# Web Development Practice 
 
+### [TraversyMedia Guide](https://www.traversymedia.com/guide)
